@@ -1,2 +1,5 @@
-Rock paper scissors browser game Odin 
-HTML Javascript CSS
+# Rock paper scissors browser game
+
+# HTML Javascript CSS
+
+# Link
